@@ -1,0 +1,3 @@
+Oscilator = 25 MHz 
+LED = Pin C0
+
